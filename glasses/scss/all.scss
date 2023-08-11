@@ -1,0 +1,21 @@
+@import "variable";
+@import "normalize";
+@import "mixin";
+@import "main";
+
+
+
+
+
+.header{
+    height: 30px;
+    background-color: #AA0601;
+    text-align: left;
+    margin: 0%;
+}
+
+.warp img{
+    height: auto;
+    width: auto;
+    object-fit: contain;
+}
